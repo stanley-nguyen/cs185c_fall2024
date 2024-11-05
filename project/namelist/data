@@ -25,4 +25,5 @@
 
 # Input datasets
  &PARM05
+ bathyFile = 'ATL_bathymetry.bin',
  &
