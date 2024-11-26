@@ -1,8 +1,8 @@
-# Issue Summary
+## Issue Summary
 
 Had unsupported lines when ALLOW_ZENITHANGLE is not defined in data.exf
 
-# MITgcm Message
+## MITgcm Message
 
 ```
 (PID.TID 0000.0001) *** ERROR *** EXF_CHECK: unsupported option when ALLOW_ZENITHANGLE is not defined
@@ -10,7 +10,7 @@ Had unsupported lines when ALLOW_ZENITHANGLE is not defined in data.exf
 (PID.TID 0000.0001) *** ERROR *** S/R ALL_PROC_DIE: ending the run
 ```
 
-# Issue Remedy
+## Issue Remedy
 
 Commented out the following lines in data.exf
 ```
