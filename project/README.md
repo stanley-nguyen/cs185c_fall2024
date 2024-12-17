@@ -57,13 +57,16 @@ Next, run the model in the southern hemisphere to complete the experiment. Link 
 There are two notebooks provided for analysis:
 1. Analyzing Model Results
 
-   `notebooks/Assessing Model Results.ipynb` 
+   `notebooks/Assessing Model Results.ipynb`
+   
    This notebook serves to assess the spatial and temporal variations in the temperature field for the model ran in the Northern Hemisphere. It generates the visualization `Atlantic Sea Surface Temperature.mp4` provided in the figures directory.
    
-   `notebooks/southern_hemisphere/Assessing Model Results (SH).ipynb` 
+   `notebooks/southern_hemisphere/Assessing Model Results (SH).ipynb`
+   
    This notebook serves to assess the spatial and temporal variations in the temperature field for the model ran in the Southern Hemisphere. It generates the visualization `Atlantic Sea Surface Temperature (SH).mp4` provided in the figures directory.
 
-2. Answering the Science Question
+3. Answering the Science Question
    
    `notebooks/Answering the Science Question.ipynb`
+   
    This notebook analyzes the difference between the two models to address the science question posed above.
